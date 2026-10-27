@@ -93,7 +93,7 @@ Each notebook includes **GRAD-CAM visualizations** that highlight the regions in
 ---
 
 ## Author
-[Srijani Das](https://github.com/Srijani-Das07)
+[Mahendra](https://github.com/Mahendra1939)
 
 ---
 
