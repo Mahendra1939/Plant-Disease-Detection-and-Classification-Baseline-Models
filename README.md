@@ -96,8 +96,3 @@ Each notebook includes **GRAD-CAM visualizations** that highlight the regions in
 [Mahendra](https://github.com/Mahendra1939)
 
 ---
-
-## License
-This repository is released under the [MIT License](LICENSE).
-
----
